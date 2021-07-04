@@ -1,4 +1,9 @@
+### <div align="center">My Github Stats</div>
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=AVI5HEK&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVI5HEK&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AVI5HEK&theme=merko)](https://git.io/streak-stats)
 
