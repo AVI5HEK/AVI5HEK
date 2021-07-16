@@ -1,4 +1,4 @@
-### <div align="center">My Github Stats</div>
+### At A Glance
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AVI5HEK&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
